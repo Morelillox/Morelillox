@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Morelillox
+- 👋 Hi, I’m Gustavo Morel (Morelillox)
 - 👀 I’m interested in learn 
 - 🌱 I’m currently on the way to become a full stack !
 - 💞️ I’m looking to collaborate on proyects for get experience
